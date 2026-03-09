@@ -8,7 +8,7 @@ Players can compete against the computer and instantly see the result.
 ## 🚀 Live Demo
 
 <p align="center">
-<a href="https://nishadheena2006.github.io/Rock-Paper-Scissors/">
+<a href="[https://nishadheena2006.github.io/Rock-Paper-Scissors/](https://github.com/nishadheena2006/rock-paper-scissors-.git)">
 <img src="https://img.shields.io/badge/Play%20Game-Live%20Demo-blue?style=for-the-badge">
 </a>
 </p>
