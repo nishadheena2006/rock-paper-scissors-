@@ -5,7 +5,7 @@ A simple & fun Rock Paper Scissors game built using HTML, CSS & JavaScript.
 </p>
 
 <p align="center">
-👉 <a href="https://nishadheena2006.github.io/Rock-Paper-Scissors/" target="_blank">
+👉 <a href="https://nishadheena2006.github.io/rock-paper-scissors-/" target="_blank">
 <b>Live Demo</b>
 </a>
 </p>
